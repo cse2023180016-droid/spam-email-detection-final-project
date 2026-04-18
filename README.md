@@ -19,6 +19,7 @@ To ensure a fair distribution of work, each member implemented a unique algorith
 ## 3. Dataset
 * **Source:** [Kaggle - Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
 * **Description:** The dataset consists of email text and a corresponding label (1 for spam, 0 for ham).
+* Note: The dataset file is too large for GitHub display. Please download the spam_ham_dataset.csv directly from the Kaggle link above and place it in the root folder to run the code
 
 ---
 
